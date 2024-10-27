@@ -1,3 +1,4 @@
+'use client';  // Add this at the very top of the file
 import React, { useState } from 'react';
 import { Search, MapPin, Star, Award, Heart, Filter, Menu, ChevronDown, Sliders, Camera, Clock, Info, X, ExternalLink } from 'lucide-react';
 
